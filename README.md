@@ -9,7 +9,7 @@
 
 </div>
 
-<div style="display:flex">
+
 <div style=" display: flex;
         flex-direction: column;
             justify-content: flex-end;
@@ -19,4 +19,3 @@
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matheuskroska&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
-</div>
