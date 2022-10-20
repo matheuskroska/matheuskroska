@@ -17,3 +17,5 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuskroska&show_icons=true&locale=en&layout=compact" alt="matheuskroska" />
 
 </div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matheuskroska)](https://git.io/streak-stats)
