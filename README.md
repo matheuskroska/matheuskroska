@@ -15,7 +15,7 @@
             justify-content: flex-end;
         width: fit-content;width:100%">
     <p><img src="https://komarev.com/ghpvc/?username=matheuskroska&label=Profile%20views&color=0e75b6&style=flat" alt="matheuskroska" /></p>
-    <img align="left" style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuskroska&show_icons=true&locale=en&layout=compact" alt="matheuskroska" />
+    <img align="left" style="width:495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuskroska&show_icons=true&locale=en&layout=compact" alt="matheuskroska" />
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matheuskroska&hide_border=true&background=FFFFFF)](https://git.io/streak-stats)
