@@ -10,10 +10,7 @@
 </div>
 
 
-<div style="display: flex;
-        flex-direction: column;
-            justify-content: flex-end;
-        width: fit-content;width:100%">
+<div>
     <p><img src="https://komarev.com/ghpvc/?username=matheuskroska&label=Profile%20views&color=0e75b6&style=flat" alt="matheuskroska" /></p>
     <img align="left" style="width:495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuskroska&show_icons=true&locale=en&layout=compact" alt="matheuskroska" />
 </div>
