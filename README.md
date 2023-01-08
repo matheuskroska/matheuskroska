@@ -9,6 +9,8 @@
 
 </div>
 
+
+
 <div>
      <p><img src="https://komarev.com/ghpvc/?username=matheuskroska&label=Profile%20views&color=0e75b6&style=flat" alt="matheuskroska" /></p>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuskroska&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -19,7 +21,9 @@
     <p><img src="https://komarev.com/ghpvc/?username=matheuskroska&label=Profile%20views&color=0e75b6&style=flat" alt="matheuskroska" /></p>
     <img align="left" style="width:300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuskroska&show_icons=true&locale=en&layout=compact" alt="matheuskroska" />
 </div> -->
+
 <br>
+<img src="https://www.codewars.com/users/mhkroska/badges/small"></img>
 <p align="left"> 
      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
