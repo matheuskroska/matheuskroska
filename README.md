@@ -12,7 +12,7 @@
 
 
 <div>
-     <p><img src="https://komarev.com/ghpvc/?username=matheuskroska&label=Profile%20views&color=0e75b6&style=flat" alt="matheuskroska" /></p>
+<!--      <p><img src="https://komarev.com/ghpvc/?username=matheuskroska&label=Profile%20views&color=0e75b6&style=flat" alt="matheuskroska" /></p> -->
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheuskroska&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskroska&layout=compact&theme=tokyonight"/></div>
 
