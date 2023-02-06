@@ -33,7 +33,7 @@ Também criei dois templates React (NextJS+TS e Vite+TS) para agilizar meu desen
 </div> -->
 
 <br>
-<img src="https://www.codewars.com/users/mhkroska/badges/small"></img>
+<div><img src="https://www.codewars.com/users/mhkroska/badges/small"> top 3%🔥</img></div>
 <p align="left"> 
      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
