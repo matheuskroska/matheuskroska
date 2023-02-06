@@ -1,10 +1,22 @@
-Meu nome é Matheus e sou um desenvolvedor front-end muito curioso.
 
-Durante a faculdade, tive contato com muitas tecnologias, C, Java, Python, PHP, MySQL, etc... mas me encontrei no front-end onde gosto muito de trabalhar e materializar ideias.
 
-Atualmente busco aprimorar meus conhecimentos dentro do ecossistema do React, com NextJS, Redux, testes.
+- Apresentação:
 
-Você pode conferir aqui no meu perfil projetos completos, todos feitos com React, como meu TCC ( Nutriplan ), Autodoc-Weather ( meu sistema de previsão do tempo ), Groupgator ( encontre um grupo ), entre outros. Criei tambem dois templates em React pra facilitar o meu desenvolvimento ( NextJS+TS ) e ( Vite+TS ). O projeto que estou desenvolvendo nesse momento é um sistema completo de ecommerce feito em NextJS, onde estou criando todo o back end tambem.
+Meu nome é Matheus Kroska e sou Bacharel em Sistemas de informação pela PUCPR,
+tenho 28 anos, possuo nacionalidade brasileira e alemã, e sou um desenvolvedor front-end muito curioso.
+- Histórico:
+
+Durante a faculdade, experimentei várias tecnologias, como C, Java, Python, PHP, MySQL, mas me encontrei no front-end.
+Atualmente, estou me aperfeiçoando no ecossistema React, incluindo NextJS, Redux e testes.
+- Portfólio:
+
+Em meu perfil, você pode ver projetos completos feitos com React, como Nutriplan, Autodoc-Weather, Groupgator, entre outros.
+Também criei dois templates React (NextJS+TS e Vite+TS) para agilizar meu desenvolvimento.
+
+Atualmente, estou construindo um sistema completo de e-commerce em NextJS, incluindo o back-end.
+- Contato:
+
+Tem curiosidade sobre algum projeto, quer falar comigo? me manda uma mensagem lá no linkedin que a gente troca uma ídeia✌️
 
 <div>
 
