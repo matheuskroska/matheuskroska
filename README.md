@@ -1,8 +1,5 @@
 Meu nome é Matheus e sou um desenvolvedor front-end muito curioso.
 
-- Bacharel em Sistemas PUCPR 2023
-- TOP 3%🔥na Plataforma do CODE WARS resolvendo problemas em JS!
-
 Durante a faculdade, tive contato com muitas tecnologias, C, Java, Python, PHP, MySQL, etc... mas me encontrei no front-end onde gosto muito de trabalhar e materializar ideias.
 
 Atualmente busco aprimorar meus conhecimentos dentro do ecossistema do React, com NextJS, Redux, testes.
