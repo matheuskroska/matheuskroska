@@ -3,6 +3,12 @@ Meu nome é Matheus e sou um desenvolvedor front-end muito curioso.
 - Bacharel em Sistemas PUCPR 2023
 - TOP 3%🔥na Plataforma do CODE WARS resolvendo problemas em JS!
 
+Durante a faculdade, tive contato com muitas tecnologias, C, Java, Python, PHP, MySQL, etc... mas me encontrei no front-end onde gosto muito de trabalhar e materializar ideias.
+
+Atualmente busco aprimorar meus conhecimentos dentro do ecossistema do React, com NextJS, Redux, testes.
+
+Você pode conferir aqui no meu perfil projetos completos, todos feitos com React, como meu TCC ( Nutriplan ), Autodoc-Weather ( meu sistema de previsão do tempo ), Groupgator ( encontre um grupo ). O projeto que estou desenvolvendo nesse momento é um sistema completo de ecommerce feito em NextJS, onde estou criando todo o back end tambem.
+
 <div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Kroska-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-kroska)](https://www.linkedin.com/in/matheus-kroska)
