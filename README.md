@@ -4,7 +4,7 @@ Durante a faculdade, tive contato com muitas tecnologias, C, Java, Python, PHP, 
 
 Atualmente busco aprimorar meus conhecimentos dentro do ecossistema do React, com NextJS, Redux, testes.
 
-Você pode conferir aqui no meu perfil projetos completos, todos feitos com React, como meu TCC ( Nutriplan ), Autodoc-Weather ( meu sistema de previsão do tempo ), Groupgator ( encontre um grupo ). Criei tambem dois templates em React pra facilitar o meu desenvolvimento ( NextJS+TS ) e ( Vite+TS ). O projeto que estou desenvolvendo nesse momento é um sistema completo de ecommerce feito em NextJS, onde estou criando todo o back end tambem.
+Você pode conferir aqui no meu perfil projetos completos, todos feitos com React, como meu TCC ( Nutriplan ), Autodoc-Weather ( meu sistema de previsão do tempo ), Groupgator ( encontre um grupo ), entre outros. Criei tambem dois templates em React pra facilitar o meu desenvolvimento ( NextJS+TS ) e ( Vite+TS ). O projeto que estou desenvolvendo nesse momento é um sistema completo de ecommerce feito em NextJS, onde estou criando todo o back end tambem.
 
 <div>
 
