@@ -1,5 +1,5 @@
 
-
+Como Desenvolvedor Front-end com 3 anos de experiência no desenvolvimento de websites e aplicações web, sou apaixonado por desafios e dedicado ao meu processo de aperfeiçoamento constante. Acredito firmemente que, através da tecnologia, podemos transformar o presente e moldar o futuro, e me sinto realizado ao construir algo que tenha um impacto positivo na vida das pessoas.
 
 <div>
 
