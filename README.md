@@ -22,7 +22,10 @@ Olá, meu nome é Matheus Kroska!
 </div> -->
 
 <br>
-<div><img src="https://www.codewars.com/users/mhkroska/badges/small"> top 3%🔥</img></div>
+<p align="left">
+  <img src="https://www.codewars.com/users/mhkroska/badges/small">
+  <br>
+</p>
 <p align="left"> 
      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
